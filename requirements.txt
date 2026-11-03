@@ -1,0 +1,4 @@
+openai>=1.0.0
+pywin32>=306
+uiautomation>=2.0.29
+Pillow>=10.0.0
